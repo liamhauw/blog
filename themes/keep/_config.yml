@@ -61,14 +61,14 @@ style:
 
     # First screen description
     # You can use the "||" to begin a newline, maximum is two lines.
-    description: Keep writing and Keep loving.
+    description: Graphics, Life.
 
     # If you want to customize the first screen font color, you can fill in here (e.g. "#0066CC")
     # Otherwise use the theme default font color
     font_color:
 
     # If enable hitokoto, first screen description is different every time when you enter the site
-    hitokoto: true  # Option values: true | false
+    hitokoto: false  # Option values: true | false
 
   # Page scroll style settings
   scroll:
@@ -177,7 +177,7 @@ toc:
   enable: true      # Option values: true | false
 
   # Automatically add list number to toc
-  number: false      # Option values: true | false
+  number: true      # Option values: true | false
 
   # If true, all level of TOC in a post will be displayed, rather than the activated part of it.
   expand_all: false  # Option values: true | false
@@ -193,10 +193,10 @@ website_count:
   # busuanzi
   # See: http://ibruce.info/2015/04/04/busuanzi/
   busuanzi_count:
-    enable: false     # Option values: true | false
-    site_uv: false    # Option values: true | false
-    site_pv: false    # Option values: true | false
-    page_pv: false    # Option values: true | false
+    enable: true     # Option values: true | false
+    site_uv: true    # Option values: true | false
+    site_pv: true    # Option values: true | false
+    page_pv: true    # Option values: true | false
 
 # ---------------------------------------------------------------------------------------
 # Local Search
