@@ -1,5 +1,5 @@
 # Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
+## Docs: https://hexo.io/docs/config  uration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
@@ -9,7 +9,7 @@ description: ''
 keywords:
 author: Liam Hauw
 language: en
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
