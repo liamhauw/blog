@@ -40,7 +40,7 @@ style:
 
   # Font family, customize font family. (you don't usually have to fill)
   # e.g. font_family: STKaiti, STSong, STHeiti
-  font_family:
+  font_family: 
 
   # Mouse hover style settings
   hover:
