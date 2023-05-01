@@ -1,1 +1,1 @@
-[My Blog](https://www.liamhauw.com/)
+[blog](https://www.liamhauw.com/)
