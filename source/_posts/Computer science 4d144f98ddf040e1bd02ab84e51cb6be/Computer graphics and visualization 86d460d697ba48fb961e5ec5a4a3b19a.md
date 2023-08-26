@@ -1,1 +1,0 @@
-# Computer graphics and visualization
